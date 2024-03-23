@@ -11,7 +11,7 @@ Time spent: **X** hours spent in total
 The following **required** functionality is completed:
 
 - [x] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: `[TODO: FILL ME IN TO GET CREDIT]`
+  - Chosen Endpoint: `[popular movies and tv shows]`
 - [x] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
 - [x] **Use Glide to load and display at least one image per entry**
 - [ ] **Click on an entry to view specific details about that entry using Intents**
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Flixster2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with LiceCap
